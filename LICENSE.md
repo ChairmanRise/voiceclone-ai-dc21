@@ -1,4 +1,4 @@
-# 
+# Exclusivo VoiceClone pacote completo. Baixe e instale com modelos pré-configurados e interface de linha de comando — rápido, seguro e fácil de usar.
 
 
 
